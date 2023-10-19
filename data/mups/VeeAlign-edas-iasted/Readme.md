@@ -1,0 +1,1 @@
+Please put the MUPS file of the ontology in this location, named `res.txt`.

@@ -1,0 +1,1 @@
+Please put the OWL file of the ontology in this location, named `[the ontology's name].owl`.
